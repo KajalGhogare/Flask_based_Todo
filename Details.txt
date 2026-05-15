@@ -1,0 +1,22 @@
+1.Add Todo
+User enters a task in the input field.
+After clicking the Add Todo button, the task is stored in the database.
+Flask receives the form data and saves it using Python backend logic.
+
+2.Update Todo
+
+The Update button allows users to edit an existing task.
+
+Working of Update Button:
+When the user clicks the Update button, Flask opens an update page.
+Existing task data is shown inside the form.
+User edits the task and submits the form.
+Flask updates the task in the database.
+
+3.gThe Delete button removes a task permanently.
+
+Working of Delete Button:
+User clicks the Delete button beside a task.
+Flask identifies the selected todo using its ID.
+The task is removed from the database.
+Updated todo list is displayed again.
