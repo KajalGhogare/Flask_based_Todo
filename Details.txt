@@ -13,7 +13,7 @@ Existing task data is shown inside the form.
 User edits the task and submits the form.
 Flask updates the task in the database.
 
-3.gThe Delete button removes a task permanently.
+3.The Delete button removes a task permanently.
 
 Working of Delete Button:
 User clicks the Delete button beside a task.
